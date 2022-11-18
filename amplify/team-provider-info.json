@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-webreact-dev-235515-authRole",
+      "UnauthRoleArn": "arn:aws:iam::867710133912:role/amplify-webreact-dev-235515-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::867710133912:role/amplify-webreact-dev-235515-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-webreact-dev-235515-deployment",
+      "UnauthRoleName": "amplify-webreact-dev-235515-unauthRole",
+      "StackName": "amplify-webreact-dev-235515",
+      "StackId": "arn:aws:cloudformation:us-east-1:867710133912:stack/amplify-webreact-dev-235515/30851320-66fd-11ed-b301-0e1022c8a289",
+      "AmplifyAppId": "d1msjklnz0af8b"
+    },
+    "categories": {
+      "auth": {
+        "webreactaa5aaf13": {}
+      }
+    }
+  }
+}
