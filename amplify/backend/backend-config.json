@@ -1,6 +1,6 @@
 {
   "auth": {
-    "webreactaa5aaf13": {
+    "webreact40f1f061": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
